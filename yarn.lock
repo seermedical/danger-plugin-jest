@@ -45,10 +45,10 @@
   resolved "https://registry.yarnpkg.com/@types/jest/-/jest-21.1.2.tgz#05ebfa64817b626694ced56745a7949281981048"
   integrity sha512-mZ0zVDNxpz44GzPHtKCFOUDEdcRUk2c1fDzWCpiGuyeJLLMOLuLlzuqOQk5fufVUJarwm4aZcQHLdYH22h25zg==
 
-"@types/node@^8.0.37":
-  version "8.0.37"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.37.tgz#d5b1bbc942915f20f4d83ea04a2aba1df7ac9d5f"
-  integrity sha512-kWdr3vH7xKdYdrVruKLVQa/qytDl0Rhn2qg6JkVp0kfqWHyyXkV/0UhOCujaeqtvZmXKJGmcDlcR3Q//ZHM4ug==
+"@types/node@^11.12.0":
+  version "11.12.0"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.12.0.tgz#ec5594728811dc2797e42396cfcdf786f2052c12"
+  integrity sha512-Lg00egj78gM+4aE0Erw05cuDbvX9sLJbaaPwwRtdCdAMnIudqrQZ0oZX98Ek0yiSK/A2nubHgJfvII/rTT2Dwg==
 
 abab@^1.0.3:
   version "1.0.3"

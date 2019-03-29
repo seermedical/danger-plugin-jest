@@ -1,6 +1,6 @@
 {
-  "name": "danger-plugin-jest",
-  "version": "0.0.0-development",
+  "name": "@seermedical/danger-plugin-jest",
+  "version": "0.0.1",
   "description": "Danger plugin for Jest",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -20,25 +20,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/macklinu/danger-plugin-jest.git"
+    "url": "https://github.com/seermedical/danger-plugin-jest.git"
   },
   "keywords": [
     "danger",
     "danger-plugin",
     "jest"
   ],
-  "author": "Macklin Underdown <macklinu@gmail.com>",
+  "author": "Robert Kerr <rob@seermedical.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/macklinu/danger-plugin-jest/issues"
+    "url": "https://github.com/seermedical/danger-plugin-jest/issues"
   },
-  "homepage": "https://github.com/macklinu/danger-plugin-jest#readme",
+  "homepage": "https://github.com/seermedical/danger-plugin-jest#readme",
   "dependencies": {
     "strip-ansi": "^4.0.0"
   },
   "devDependencies": {
     "@types/jest": "^21.1.2",
-    "@types/node": "^8.0.37",
+    "@types/node": "^11.12.0",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.0.0",
     "danger": "^2.0.0-alpha.19",
